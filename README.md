@@ -13,6 +13,7 @@ npm i react-jsbox-tab -S
 ### Basic
 
 ```jsx
+import React from 'react'
 import { Tab } from 'react-jsbox-tab'
 
 const TAB_HEIGHT = 50

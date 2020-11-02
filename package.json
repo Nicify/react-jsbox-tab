@@ -1,6 +1,6 @@
 {
     "name": "react-jsbox-tab",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Tab component of react-jsbox, layout inspired by Ryan's Mtime Movie.",
     "keywords": [
         "React",
@@ -29,8 +29,8 @@
     "author": "Eva1ent",
     "repository": "github:Nicify/react-jsbox-tab",
     "peerDependencies": {
-        "react": "^17.0.1",
-        "react-jsbox": "^1.2.8"
+        "react": "16.14.0",
+        "react-jsbox": "^1.2.9"
     },
     "devDependencies": {
         "@babel/core": "7.12.3",
@@ -50,7 +50,7 @@
         "husky": "^4.3.0",
         "prettier": "2.1.2",
         "react": "17.0.1",
-        "rollup": "2.32.1",
+        "rollup": "2.33.1",
         "rollup-plugin-babel": "4.4.0",
         "rollup-plugin-cleanup": "3.2.1",
         "rollup-plugin-commonjs": "10.1.0",
